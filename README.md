@@ -11,7 +11,7 @@
 - 🔬My research is on CT image based methods to extract the absolute blood velocity in coronary arteries. 
 - 📚 I am interested to learn more about: Advanced Python Programming, Implementing Machine Learning Algorithms, Medical Image Processing
 - 👩🏻‍💼 Pronouns: She/Her/Hers
-- 📸 Fun fact: I wanted to quit my engineering studies after I did an undergrad to start a photography business. Here I am doing a PhD on Engineering.
+- 📸 Fun fact: I wanted to quit my engineering studies after I did an undergrad program to start a photography business. Here I am doing a PhD on Engineering.
 - 📫 How to reach me: aseresti@torontomu.ca
 
 ### 🖥 Skills
