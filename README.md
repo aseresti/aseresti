@@ -1,4 +1,14 @@
+# Anahita A. Seresti
 ### Hi there 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hejazizo/](https://www.linkedin.com/in/anahita-a-b9764b111/))
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aseresti@torontomu.ca)
+
+<!--
+- [![Bootstrap](https://jobs.newscientist.com/_/jobseekers-frontend/image/41f62731-a825-4212-9039-819c2cb5eaf3)] PhD candiate in Biomedical Engineering @ [![Website badge](https://www.khanslab.ca)](https://www.khanslab.ca)
+-->
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
 
 <!--
 **aseresti/aseresti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
