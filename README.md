@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/aseresti?label=Follow&style=social)](https://github.com/aseresti)
 --->
 - 🎓 PhD Candidate in Biomedical Engineering
-- 🔭 I’m currently focused on learning the visualization toolkit for medical image based visualizations. Check [**VTK**](vtk.org) out if interested.
+- 🔭 I’m currently focused on learning the visualization toolkit for medical image based visualizations purposes. Check [**VTK**](vtk.org) out if interested.
 - 🔬My research is on CT image based methods to extract the absolute blood velocity in coronary arteries. 
 - 📚 I am interested to learn more about: Advanced Python Programming, Implementing Machine Learning Algorithms, Medical Image Processing
 - 👩🏻‍💼 Pronouns: She/Her/Hers
