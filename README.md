@@ -9,7 +9,7 @@
 - 🎓 PhD Candidate in Biomedical Engineering
 - 🔭 I’m currently focused on learning the visualization toolkit for medical image based visualizations purposes. Check [**VTK**](vtk.org) out if interested.
 - 🔬My research is on CT image based methods to extract the absolute blood velocity in coronary arteries. 
-- 📚 I am interested to learn more about: Advanced Python Programming, Implementing Machine Learning Algorithms, Medical Image Processing
+- 📚 I am interested to learn more about: Advanced Python Programming, Implementing Machine Learning Algorithms, Medical Image Processing, Pre-processing Medical Imaging for Machine Learning
 - 👩🏻‍💼 Pronouns: She/Her/Hers
 - 📸 Fun fact: I wanted to quit my engineering studies after I did an undergrad program to start a photography business. Here I am doing a PhD on Engineering.
 - 📫 How to reach me: aseresti@torontomu.ca
