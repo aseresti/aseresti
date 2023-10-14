@@ -27,4 +27,4 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aseresti&theme=transparent&hide_border=true&border=E622FF" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aseresti&theme=python-dark&hide_border=true&border=E622FF" alt="GitHub Streak" /></a>
