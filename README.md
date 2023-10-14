@@ -24,7 +24,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/-python-05122A?style=plastic&logo=python&color=45566d) ![Bootstrap](https://img.shields.io/badge/-VTK-05122A?style=plastic&logo=VTK&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=plastic&logo=Scikit-Learn&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=plastic&logo=Pandas&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=plastic&logo=Numpy&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=plastic&logo=Matplotlib&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Windows-05122A?style=plastic&logo=Windows&color=45566d) ![Bootstrap](https://img.shields.io/badge/-MacOS-05122A?style=plastic&logo=MacOS&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=45566d) ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=plastic&logo=MATLAB&color=45566d)
 
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user==aseresti&theme=prussian
-&hide_border=False&card_width=400&locale=en" alt="GitHub Streak" /></a>
-<div>
+---
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aseresti&theme=prussian" alt="GitHub Streak" /></a>
