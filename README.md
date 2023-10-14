@@ -22,16 +22,9 @@
   
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-VTK-05122A?style=flat-square&logo=VTK&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)  ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=MATLAB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+![Bootstrap](https://img.shields.io/badge/-python-05122A?style=plastic&logo=python&color=45566d) ![Bootstrap](https://img.shields.io/badge/-VTK-05122A?style=plastic&logo=VTK&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=plastic&logo=Scikit-Learn&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=plastic&logo=Pandas&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=plastic&logo=Numpy&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=plastic&logo=Matplotlib&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Windows-05122A?style=plastic&logo=Windows&color=45566d) ![Bootstrap](https://img.shields.io/badge/-MacOS-05122A?style=plastic&logo=MacOS&color=45566d) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=45566d) ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=plastic&logo=MATLAB&color=45566d)
 
 <div>
-
-<!---
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user==aseresti&theme=prussian
+&hide_border=False&card_width=400&locale=en" alt="GitHub Streak" /></a>
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aseresti&show_icons=true&locale=en&layout=compact" alt="aseresti" />
-<div>
---->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aseresti&theme=python-dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
