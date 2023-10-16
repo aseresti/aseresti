@@ -22,7 +22,7 @@
   
 ### ⚙️ Tech Stack
 
-| Programming \n Languages | Liberaries | Operating Systems | Tools|
+| Programming Languages | Liberaries | Operating Systems | Tools|
 | --- | --- | --- | --- |
 | ![Bootstrap](https://img.shields.io/badge/-python-05122A?style=plastic&logo=python&color=45566d) | ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=plastic&logo=Scikit-Learn&color=45566d) | ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=45566d) | ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=45566d) |
 | ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=plastic&logo=MATLAB&color=45566d) | ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=plastic&logo=Matplotlib&color=45566d) | ![Bootstrap](https://img.shields.io/badge/-MacOS-05122A?style=plastic&logo=MacOS&color=45566d) | ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=45566d) |
