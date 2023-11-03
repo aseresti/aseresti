@@ -15,7 +15,7 @@
 - 📸 Fun fact: I wanted to quit my engineering studies after I did an undergrad program to start a photography business. Here I am doing a PhD on Engineering.
 - 📫 How to reach me: aseresti@torontomu.ca
 # 
-<img align="right" src="https://i.pinimg.com/originals/27/7c/68/277c68579a82f06a0901b6f667d61a6a.png" width="350">
+<img align="right" src="https://i.pinimg.com/originals/27/7c/68/277c68579a82f06a0901b6f667d61a6a.png" width="347">
 
 ### 🖥 Skills
 
