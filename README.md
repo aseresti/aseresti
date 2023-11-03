@@ -19,10 +19,10 @@
 
 ### 🖥 Skills
 
-- Medical Image Processing
-- Biomedical Engineering
+- Medical Image Processing (Cardiac CT Image Processing)
+- Biomedical Engineering (System Modeling)
 - Ultrasound Imaging and Beamforming Systems
-- Medical Signal Processing
+- Medical Signal Processing 
 
 ---
 
