@@ -14,15 +14,18 @@
 - 👩🏻‍💼 Pronouns: She/Her/Hers
 - 📸 Fun fact: I wanted to quit my engineering studies after I did an undergrad program to start a photography business. Here I am doing a PhD on Engineering.
 - 📫 How to reach me: aseresti@torontomu.ca
-# 
-<img align="right" src="https://i.pinimg.com/originals/27/7c/68/277c68579a82f06a0901b6f667d61a6a.png" width="347">
+
+<img align="right" src="https://i.pinimg.com/originals/27/7c/68/277c68579a82f06a0901b6f667d61a6a.png" width="350" style="float:right;">
 
 ### 🖥 Skills
 
-- Medical Image Processing (Cardiac CT Image Processing)
-- Biomedical Engineering (System Modeling)
-- Ultrasound Imaging and Beamforming Systems
-- Medical Signal Processing 
+  
+  - Medical Image Processing (Cardiac CT Image Processing)
+  - Biomedical Engineering (System Modeling)
+  - Ultrasound Imaging and Beamforming Systems
+  - Medical Signal Processing 
+
+
 
 ---
 
@@ -32,7 +35,7 @@
 <p align="left">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></p>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=aseresti&theme=aura-dark&hide_border=true&background=FFFFFF00&currStreakLabel=77E7DA&currStreakNum=77E7DA&ring=CE4A4A&fire=CE4A4A&sideNums=CE4A4A&sideLabels=CE4A4A&dates=9CA0A2" alt="GitHub Streak" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=aseresti&theme=aura-dark&hide_border=false&background=FFFFFF00&currStreakLabel=77E7DA&currStreakNum=77E7DA&ring=CE4A4A&fire=CE4A4A&sideNums=CE4A4A&sideLabels=CE4A4A&dates=9CA0A2" alt="GitHub Streak" />
 <h4>Frameworks</h4>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FEniCS_logo.svg/1200px-FEniCS_logo.svg.png" height="40"/></p>
 
