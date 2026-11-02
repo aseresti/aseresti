@@ -8,9 +8,12 @@
 [![Github](https://img.shields.io/github/followers/aseresti?label=Follow&style=social)](https://github.com/aseresti)
 --->
 - 🎓 PhD in Biomedical Engineering
-- 🔭 I’m currently focused on learning the visualization toolkit for medical image based visualizations purposes. Check [**VTK**](vtk.org) out if interested.
-- 🔬My research is on CT image based methods to extract the absolute blood velocity in coronary arteries. 
-- 📚 I am interested to learn more about: Advanced Python Programming, Medical Image Processing
+- 🔭 I’m currently focused on learning the following concepts:
+      - visualization toolkit for medical image based visualizations purposes. Check [**VTK**](vtk.org) out if interested.
+      - simple ITK for medical image processing.
+      - pytorch for deep learning model development.
+- 🔬My research is on CT image based methods to help with the diagnosis of the coronary artery disease. 
+- 📚 I am interested to learn more about: Advanced Python Programming, Medical Image Processing, Inverse Problems, Control Dynamics, Data-Driven Approaches in Medical Image Analysis.
 - 📫 How to reach me: aseresti@torontomu.ca
 
 <img align="right" src="https://i.pinimg.com/originals/27/7c/68/277c68579a82f06a0901b6f667d61a6a.png" width="300" style="float:right;">
