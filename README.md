@@ -8,9 +8,9 @@
 [![Github](https://img.shields.io/github/followers/aseresti?label=Follow&style=social)](https://github.com/aseresti)
 --->
 - 🎓 PhD in Biomedical Engineering
-- 🔭 I’m currently focused on learning the following concepts:
-      - visualization toolkit for medical image based visualizations purposes. Check [**VTK**](vtk.org) out if interested.
-      - simple ITK for medical image processing.
+- 🔭 I’m currently focused on learning the following concepts:\
+      - visualization toolkit for medical image based visualizations purposes. Check [**VTK**](vtk.org) out if interested.\
+      - simple ITK for medical image processing.\
       - pytorch for deep learning model development.
 - 🔬My research is on CT image based methods to help with the diagnosis of the coronary artery disease. 
 - 📚 I am interested to learn more about: Advanced Python Programming, Medical Image Processing, Inverse Problems, Control Dynamics, Data-Driven Approaches in Medical Image Analysis.
